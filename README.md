@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Varshitha!  
 - 💻 I’m passionate about **Full Stack Development, Problem Solving & Competitive Programming**  
-- 🌱 Currently learning: **Java, Spring Boot, Node.js, and Cloud Deployment**  
-- 💡 Fun Fact: I once fixed a bug after hours of debugging just by reordering two lines of code 😂  
 
 ## 🧑‍💻 About Me  
 🎓 **3rd Year Computer Science Engineering (CSE)** student at **Mahatma Gandhi Institute of Technology** with a **CGPA of 7.9**  
