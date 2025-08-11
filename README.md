@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Varshitha!  
+- 💻 I’m passionate about **Full Stack Development, Problem Solving & Competitive Programming**  
+- 🌱 Currently learning: **Java, Spring Boot, Node.js, and Cloud Deployment**  
+- 💡 Fun Fact: I once fixed a bug after hours of debugging just by reordering two lines of code 😂  
 
-<!--
-**Varshitha-567/varshitha-567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me  
+🎓 **3rd Year Computer Science Engineering (CSE)** student at **Mahatma Gandhi Institute of Technology** with a **CGPA of 7.9**  
+🏆 **Smart India Hackathon (SIH) 2024 Finalist** — Developed a **Women Safety Web Application** with real-time tracking & emergency alerts  
+💼 Built projects like **Maze-Solving Game, BookBazaar, Text-to-Image Generator, and Cows & Bulls Game**  
+📜 Certified in **C and Python (SoloLearn)** & **JavaScript Essentials 2 (Cisco Networking Academy)**  
+📚 Actively preparing for **GATE 2026 (CS)**  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varshitha-567&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha-567&layout=compact)  
+
+## 📫 Connect with Me  
+- ✉️ Email: **varshithakornepati@gmail.com**  
+- 🔗 LinkedIn: [Varshitha Kornepati](https://linkedin.com/in/varshitha-kornepati)  
+
+---
+⭐ _"Code, Learn, Repeat — Because every bug is just an uninvited feature waiting to be understood."_ 🚀
