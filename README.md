@@ -6,7 +6,6 @@
 🏆 **Smart India Hackathon (SIH) 2024 Finalist** — Developed a **Women Safety Web Application** with real-time tracking & emergency alerts  
 💼 Built projects like **Maze-Solving Game, BookBazaar, Text-to-Image Generator, and Cows & Bulls Game**  
 📜 Certified in **C and Python (SoloLearn)** & **JavaScript Essentials 2 (Cisco Networking Academy)**  
-📚 Actively preparing for **GATE 2026 (CS)**  
 
 ## 🛠️ Skills & Tools  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
@@ -19,15 +18,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-![Static Badge](https://img.shields.io/badge/java%20for-the-badge-blue)
-
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varshitha-567&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha-567&layout=compact)  
-
 ## 📫 Connect with Me  
 - ✉️ Email: **varshithakornepati@gmail.com**  
 - 🔗 LinkedIn: [Varshitha Kornepati](https://linkedin.com/in/varshitha-kornepati)  
 
----
 ⭐ _"Code, Learn, Repeat — Because every bug is just an uninvited feature waiting to be understood."_ 🚀
