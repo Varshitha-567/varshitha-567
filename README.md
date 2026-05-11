@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Varshitha!  
-- 💻 I’m passionate about **Full Stack Development, Problem Solving & Competitive Programming**  
+I’m passionate about **Full Stack Development, Problem Solving & Competitive Programming**  
 
 ## 🧑‍💻 About Me  
 🎓 **3rd Year Computer Science Engineering (CSE)** student at **Mahatma Gandhi Institute of Technology** with a **CGPA of 7.9**  
@@ -22,4 +22,4 @@
 - ✉️ Email: **varshithakornepati@gmail.com**  
 - 🔗 LinkedIn: [Varshitha Kornepati](https://linkedin.com/in/varshitha-kornepati)  
 
-⭐ _"Code, Learn, Repeat — Because every bug is just an uninvited feature waiting to be understood."_ 🚀
+"Code, Learn, Repeat — Because every bug is just an uninvited feature waiting to be understood."
