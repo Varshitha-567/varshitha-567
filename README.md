@@ -20,6 +20,6 @@ I’m passionate about **Full Stack Development, Problem Solving & Competitive P
 
 ## 📫 Connect with Me  
 - ✉️ Email: **varshithakornepati@gmail.com**  
-- 🔗 LinkedIn: [Varshitha Kornepati](https://www.linkedin.com/in/varshitha-kornepati-449111291/)  
+- 🔗 LinkedIn: [Varshitha Kornepati](https://www.linkedin.com/in/varshitha-kornepati-449111291)  
 
 "Code, Learn, Repeat — Because every bug is just an uninvited feature waiting to be understood."
