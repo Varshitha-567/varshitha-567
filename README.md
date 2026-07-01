@@ -2,7 +2,7 @@
 I’m passionate about **Full Stack Development, Problem Solving & Competitive Programming**  
 
 ## 🧑‍💻 About Me  
-🎓 **3rd Year Computer Science Engineering (CSE)** student at **Mahatma Gandhi Institute of Technology** with a **CGPA of 7.9**  
+🎓 **Computer Science Engineering (CSE)** student at **Mahatma Gandhi Institute of Technology** with a **CGPA of 7.9**  
 🏆 **Smart India Hackathon (SIH) 2024 Finalist** — Developed a **Women Safety Web Application** with real-time tracking & emergency alerts  
 💼 Built projects like **Maze-Solving Game, BookBazaar, Text-to-Image Generator, and Cows & Bulls Game**  
 📜 Certified in **C and Python (SoloLearn)** & **JavaScript Essentials 2 (Cisco Networking Academy)**  
