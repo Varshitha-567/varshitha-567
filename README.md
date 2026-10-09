@@ -1,9 +1,9 @@
- <h1 align="center">Hi 👋, I'm Kornepati Varshitha</h1>
+<h1 align="center">Hi 👋, I'm Kornepati Varshitha</h1>
 
 <h3 align="center">Computer Science Engineering Student | Software Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  Building innovative software solutions with Full Stack Development, Artificial Intelligence, and emerging technologies.
+  Building innovative software solutions through Full Stack Development, Artificial Intelligence, and Machine Learning.
 </p>
 
 <p align="center">
@@ -27,10 +27,10 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science and Engineering student graduating in 2027.
-- 💻 Interested in Software Engineering, Full Stack Development, AI/ML, and Blockchain.
+- 💻 Interested in Software Engineering, Full Stack Development, and AI/ML.
 - 🧠 Practice Data Structures and Algorithms using Java.
 - 🚀 Build practical applications that solve real-world problems.
-- 🏆 Participated in hackathons and collaborative development projects.
+- 🏆 Participate in hackathons and collaborative development projects.
 - 🌱 Continuously learning new technologies and improving my problem-solving skills.
 - 🤝 Open to software engineering internships and collaborative opportunities.
 
@@ -77,17 +77,21 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,aws" alt="Tools and Platforms"/>
 </p>
 
-**Blockchain**
+**Enterprise Technologies**
 
-- Blockchain fundamentals
-- Smart contract concepts
-- Decentralized application concepts
+- ServiceNow Administration and IT Service Management (ITSM)
+- Flow Designer and Workflow Automation
+- Automated Test Framework (ATF)
+- Salesforce Development Fundamentals
+- Apex and Lightning Web Components (LWC)
+- Basics of Agentic AI
 
 ---
 
 ## 💼 Experience
 
 ### Machine Learning Intern — Cognifyz Technologies
+
 *March 2026 – April 2026*
 
 - Built machine learning models for restaurant rating prediction and cuisine classification.
@@ -97,11 +101,24 @@
 
 **Skills:** Python, Machine Learning, Random Forest, Data Analysis, Data Visualization.
 
-### ServiceNow Virtual Internship — ITSM & Automation
-*ServiceNow University Virtual Internship Program | SmartBridge*
+### ServiceNow Virtual Internship — ServiceNow University & SmartBridge
 
-- Learned IT Service Management (ITSM) fundamentals and workflow automation.
-- Gained exposure to ServiceNow and enterprise service workflows.
+- Completed the ServiceNow Virtual Internship Program offered by ServiceNow University in collaboration with SmartBridge.
+- Gained hands-on exposure to ServiceNow Administration, Flow Designer, and workflow automation.
+- Learned Automated Test Framework (ATF), reporting, ITSM, and the basics of Agentic AI.
+
+**Skills:** ServiceNow, ITSM, Flow Designer, ATF, Workflow Automation, Agentic AI.
+
+### Salesforce Developer with Agentblazer Champion Program
+
+*May 2025 – July 2025 | 8-week Virtual Internship*
+
+- Completed the program conducted by SmartBridge in collaboration with Salesforce and AICTE.
+- Learned organizational setup, data management, security management, developer fundamentals, and process automation.
+- Completed learning modules and superbadges covering Apex Specialist, Object Relationships, Lightning Web Components, and Agentblazer concepts.
+- Successfully passed the program evaluation through SkillWallet.
+
+**Skills:** Salesforce, CRM, Apex, Lightning Web Components, Data Management, Process Automation.
 
 ---
 
@@ -111,7 +128,7 @@
 
 An AI-powered urban traffic analytics solution designed to track vehicle trajectories across multiple cameras using Automatic Number Plate Recognition (ANPR).
 
-- 🎯 Focus: Vehicle tracking, traffic analytics, and smart automation.
+- 🎯 **Focus:** Vehicle tracking, traffic analytics, and smart automation.
 - 🏆 Team CityFlux-06 was shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
 - 🔗 [Live Prototype](https://cityflux.vercel.app/)
 
@@ -140,47 +157,45 @@ A web prototype designed to help tribal students discover scholarship opportunit
 - 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS.
 - 🔗 [Live Prototype](https://van-dhan-scholar-connect.vercel.app/)
 
-### 5. BookBazaar — Online Book Marketplace
+### 5. PlayWise — Interactive Gaming Project
+
+An interactive web-based gaming project focused on gameplay and user experience.
+
+- 🎮 **Focus:** Interactive gameplay and user engagement.
+- 🔗 [View Repository](https://github.com/Varshitha-567/PlayWise-IQOO-Hackathon.git)
+
+### 6. BookBazaar — Online Book Marketplace
 
 A full-stack marketplace application for browsing and managing books with file uploads and cloud storage support.
 
-- 🛒 Focuses on marketplace functionality and backend API integration.
+- 🛒 **Focus:** Marketplace functionality and backend API integration.
 - 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, Multer, AWS S3.
 
-### 6. Women Safety Web Application
+### 7. Women Safety Web Application
 
 A web application developed to address women's safety through a technology-driven solution.
 
 - 🏆 Smart India Hackathon 2024 finalist project.
 - 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Bootstrap.
 
-### 7. PlayWise — Interactive Gaming Project
-
-An interactive gaming project focused on gameplay and user experience.
-
-- 🛠️ **Focus:** Interactive web-based gaming.
-- 🔗 [View Repository](https://github.com/Varshitha-567/PlayWise-IQOO-Hackathon)
-
 ---
 
 ## 🏆 Achievements
 
-- 🏅 Shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
-- 🏅 Smart India Hackathon 2024 finalist.
-- 🥇 Secured 5th position in the AI theme at Hacksavy.
-- ⭐ 5-Star Python rating on HackerRank.
-- 💻 Solved 300+ problems on LeetCode.
-- 🚀 Participated in Women Code to Win 2025.
+- **Competitive Programming:** Solved 300+ DSA problems on LeetCode and achieved a 5-Star Python Rating on HackerRank.
+- **Smart India Hackathon (2024, 2025 & 2026):** Shortlisted in internal college hackathons for developing innovative software solutions.
+- **Cognizant Technoverse Hackathon 2026:** Developed an AI-powered insurance claim automation solution.
+- **24-Hour Hackathon:** Secured 5th place for developing a city-scale disaster risk intelligence system.
 
 ---
 
 ## 📜 Certifications
 
-- Cisco Networking Academy — JavaScript Essentials 1.
-- Cisco Networking Academy — JavaScript Essentials 2.
-- NPTEL — Data Science for Engineers.
-- ServiceNow Micro-Certification.
-- Full Stack Web Development Bootcamp.
+- **Google Cloud Generative AI Leader** — Infosys Springboard & Skillsoft.
+- **Cisco Networking Academy:** Modern AI, Data Science with Python, CCNA: Introduction to Networks, and JavaScript Essentials.
+- **Salesforce Developer (Agentblazer Champion)** — Salesforce, SmartBridge & AICTE; learning in Apex, Lightning Web Components (LWC), and Object Relationships.
+- **ServiceNow Micro-Certification** — ServiceNow University & SmartBridge; ITSM, Workflow Automation, Flow Designer, and Automated Test Framework (ATF).
+- **Data Foundations & Verification Principles** — TCS iON (AI for All).
 
 ---
 
@@ -195,7 +210,7 @@ An interactive gaming project focused on gameplay and user experience.
   </a>
 </p>
 
-**Primary coding language:** Java
+**Primary Coding Language:** Java
 
 **Focus Areas:** Data Structures and Algorithms, problem-solving, and coding interview preparation.
 
@@ -234,9 +249,15 @@ An interactive gaming project focused on gameplay and user experience.
   <a href="https://leetcode.com/u/Varshitha_K-567/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:varshithakornepati@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:varshithakornepati@gmail.com">varshithakornepati@gmail.com</a>
+  <br/>
+  📱 <a href="tel:+918977944735">+91 89779 44735</a>
 </p>
 
 <p align="center">
