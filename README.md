@@ -1,258 +1,214 @@
-<h1 align="center">Hi 👋, I'm Kornepati Varshitha</h1>
+ <h1 align="center">Hi 👋, I'm Kornepati Varshitha</h1>
 
-<h3 align="center">
-Computer Science Engineering Student | Full Stack Developer | AI & Blockchain Enthusiast
-</h3>
+<h3 align="center">Computer Science Engineering Student | Software Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-Passionate about building innovative software solutions using AI, Blockchain, and Full Stack Development.
+  Building innovative software solutions with Full Stack Development, Artificial Intelligence, and emerging technologies.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Varshitha-567">
-    <img src="https://komarev.com/ghpvc/?username=Varshitha-567&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/varshitha-kornepati-449111291">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/Varshitha-567">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varshitha-567&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 I'm a **Computer Science Engineering undergraduate (2027)** passionate about developing software that solves real-world problems.
-
-💡 My interests include:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- ⛓️ Blockchain Technology
-- 🌐 Full Stack Web Development
-- ☁️ Cloud Computing
-- 📊 Data Structures & Algorithms
-
-🚀 I enjoy building scalable applications, participating in hackathons, and continuously learning emerging technologies.
+- 🎓 B.Tech Computer Science and Engineering student graduating in 2027.
+- 💻 Interested in Software Engineering, Full Stack Development, AI/ML, and Blockchain.
+- 🧠 Strong interest in Data Structures and Algorithms using Java.
+- 🚀 Building practical projects that solve real-world problems.
+- 🏆 Participating in hackathons and collaborative software development.
+- 🌱 Continuously learning new technologies and improving my engineering skills.
+- 🤝 Open to software engineering internships and collaborative opportunities.
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Technical Skills
 
-- Advanced MERN Stack
-- System Design
-- Generative AI & LLMs
-- Blockchain Development
-- Docker & Cloud Deployment
-
----
-
-## 💻 Tech Stack
-
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,c" alt="Programming Languages"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,angular" alt="Frontend Technologies"/>
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" alt="Backend Technologies"/>
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases"/>
 </p>
 
-### Tools & Technologies
+### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-</p>
-
-### AI / ML
-
-- Scikit-Learn
-- Hugging Face
+- Python and Scikit-learn
+- Hugging Face Inference API
 - Stable Diffusion
 - ONNX Runtime
+- AI fairness evaluation using IBM AIF360
+- Model explainability using SHAP and LIME
+
+### Cloud, Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,aws" alt="Tools and Platforms"/>
+</p>
 
 ### Blockchain
 
-- Solidity (Learning)
-- Smart Contracts
-- Web3
+- Blockchain fundamentals
+- Smart contract concepts
+- Decentralized application concepts
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔹 FAIRHIRE
+### 1. TRACER AI — Multi-Camera Traffic Analytics
 
-AI-powered Bias Detection Framework for Fair Hiring Systems.
+An AI-powered urban traffic analytics solution designed to track vehicle trajectories across multiple cameras using Automatic Number Plate Recognition (ANPR).
 
-**Tech Stack**
+- 🎯 Focus: Vehicle tracking, traffic analytics, and smart automation.
+- 🏆 Team CityFlux-06 — shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
+- 🔗 [Live Prototype](https://cityflux.vercel.app/)
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-- IBM AIF360
-- SHAP
-- LIME
+### 2. FAIRHIRE — AI Hiring Bias Detection Framework
 
----
+A framework designed to evaluate potential bias in AI-based hiring systems across attributes such as gender, region, and education.
 
-## 🔹 HISTOART
+- ⚖️ Fairness metrics: Statistical Parity Difference (SPD), Disparate Impact Ratio (DIR), and the EEOC four-fifths rule.
+- 🔍 Explainability and fairness analysis using IBM AIF360, SHAP, and LIME.
+- 🛠️ Tech Stack: React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB.
+- 🔗 [View Source Code](https://github.com/Varshitha-567/FAIRHIRE)
 
-An AI-powered application that generates historical concept art from local stories using Stable Diffusion and Hugging Face.
+### 3. HISTOART — AI-Powered Historical Concept Art
 
-**Tech Stack**
+An AI application that transforms local history and heritage-related stories into visual concept art.
 
-- Python
-- Django
-- React
-- Stable Diffusion
-- Hugging Face
-- CUDA
-- ONNX Runtime
+- 🎨 Generates creative visual interpretations of historical narratives.
+- 🤖 Integrates generative AI models through inference APIs.
+- 🛠️ Tech Stack: Python, Django, React, Hugging Face, Stable Diffusion, ONNX Runtime.
 
----
+### 4. VanDhan ScholarConnect — Scholarship Platform
 
-## 🔹 BookBazaar
+A web prototype designed to help tribal students discover scholarship opportunities through a unified interface.
 
-A Full Stack Book Marketplace with secure file uploads and cloud storage.
+- 🎓 Focus: Scholarship discovery and student application workflows.
+- 🛠️ Tech Stack: Next.js, React, TypeScript, Tailwind CSS.
+- 🔗 [Live Prototype](https://van-dhan-scholar-connect.vercel.app/)
 
-**Tech Stack**
+### 5. BookBazaar — Online Book Marketplace
 
-- Node.js
-- Express.js
-- MongoDB
-- AWS S3
+A full-stack marketplace application for browsing and managing books with file upload and cloud storage support.
 
----
+- 🛒 Focus: Marketplace functionality and backend API integration.
+- 🛠️ Tech Stack: Node.js, Express.js, MongoDB, Multer, AWS S3.
 
-## 🔹 Women Safety Web Application
+### 6. Women Safety Web Application
 
-Developed as part of Smart India Hackathon.
+A web application developed to address women's safety through a technology-driven solution.
 
-**Tech Stack**
+- 🏆 Smart India Hackathon 2024 finalist project.
+- 🛠️ Tech Stack: HTML, CSS, JavaScript, Bootstrap.
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+### 7. PlayWise — Interactive Gaming Project
+
+An interactive gaming project developed as a web-based application.
+
+- 🎮 Focus: Interactive gameplay and user experience.
+- 🔗 [View Repository](https://github.com/Varshitha-567/PlayWise-IQOO-Hackathon)
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 Smart India Hackathon Finalist
-- 🏅 Women Code to Win Hackathon Participant
-- ⭐ 5-Star Python on HackerRank
-- 📜 Cisco Networking Academy Certifications
-- 📜 NPTEL – Data Science for Engineers
-- 💼 Machine Learning Internship
+- 🥇 Shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
+- 🏅 Smart India Hackathon 2024 finalist.
+- 💻 5-Star Python rating on HackerRank.
+- 🧩 Solved 300+ problems on LeetCode.
+- 🏅 Secured 5th position in the AI theme at Hacksavy.
+- 🚀 Participated in Women Code to Win 2025.
 
 ---
 
-## 📚 Certifications
+## 📜 Certifications & Learning
 
-- Cisco JavaScript Essentials 1
-- Cisco JavaScript Essentials 2
-- NPTEL Data Science for Engineers
-- ServiceNow Micro Certification
-- Full Stack Web Development Bootcamp
-- Machine Learning Internship Certificate
+- Cisco Networking Academy — JavaScript Essentials 1 and 2.
+- NPTEL — Data Science for Engineers.
+- ServiceNow Micro-Certification.
+- Full Stack Web Development Bootcamp.
+- Machine Learning internship at Cognifyz.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Varshitha-567&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha-567&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varshitha-567&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha-567&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Varshitha-567&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Varshitha-567&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Varshitha-567&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha-567&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha-567&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/varshitha-kornepati-449111291" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/Varshitha-567" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/varshitha-kornepati-449111291">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://github.com/Varshitha-567">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
 </p>
 
 ---
 
-## 💡 Fun Fact
+## 🎯 Current Goals
 
-> I love transforming ideas into real-world software solutions through AI, Blockchain, and Full Stack Development.
-
----
-
-## 📌 Goals for 2026–2027
-
-- 🚀 Secure a Software Engineering Internship
-- 💻 Solve 500+ DSA Problems
-- 🌍 Contribute to Open Source Projects
-- 🤖 Build impactful AI & Blockchain Applications
-- 📈 Continuously improve software engineering skills
+- 💻 Strengthen problem-solving skills in Java and DSA.
+- 🚀 Build production-ready full-stack applications.
+- 🤖 Explore generative AI and responsible AI systems.
+- 🌍 Contribute to open-source projects.
+- 👩‍💻 Secure a Software Engineering internship and grow as a developer.
 
 ---
 
-## 🐍 Contribution Snake
+<p align="center">
+  <b>✨ Building, learning, and innovating one project at a time. ✨</b>
+</p>
 
-> Enable GitHub Actions in your profile repository and add the following workflow to generate the snake animation.
-
-```md
-![Snake animation](https://github.com/Varshitha-567/Varshitha-567/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile! Have a great day! ✨</h3>
+<p align="center">
+  Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+</p>
