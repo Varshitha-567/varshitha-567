@@ -8,10 +8,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/varshitha-kornepati-449111291">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Varshitha-567">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Varshitha_K-567/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -25,60 +28,80 @@
 
 - 🎓 B.Tech Computer Science and Engineering student graduating in 2027.
 - 💻 Interested in Software Engineering, Full Stack Development, AI/ML, and Blockchain.
-- 🧠 Strong interest in Data Structures and Algorithms using Java.
-- 🚀 Building practical projects that solve real-world problems.
-- 🏆 Participating in hackathons and collaborative software development.
-- 🌱 Continuously learning new technologies and improving my engineering skills.
+- 🧠 Practice Data Structures and Algorithms using Java.
+- 🚀 Build practical applications that solve real-world problems.
+- 🏆 Participated in hackathons and collaborative development projects.
+- 🌱 Continuously learning new technologies and improving my problem-solving skills.
 - 🤝 Open to software engineering internships and collaborative opportunities.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+**Programming Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,c" alt="Programming Languages"/>
 </p>
 
-### Frontend Development
+**Frontend Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,angular" alt="Frontend Technologies"/>
 </p>
 
-### Backend Development
+**Backend Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" alt="Backend Technologies"/>
 </p>
 
-### Databases
+**Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases"/>
 </p>
 
-### AI / Machine Learning
+**AI & Machine Learning**
 
 - Python and Scikit-learn
 - Hugging Face Inference API
 - Stable Diffusion
 - ONNX Runtime
-- AI fairness evaluation using IBM AIF360
-- Model explainability using SHAP and LIME
+- IBM AI Fairness 360 (AIF360)
+- SHAP and LIME
 
-### Cloud, Tools & Platforms
+**Cloud, Tools & Platforms**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,aws" alt="Tools and Platforms"/>
 </p>
 
-### Blockchain
+**Blockchain**
 
 - Blockchain fundamentals
 - Smart contract concepts
 - Decentralized application concepts
+
+---
+
+## 💼 Experience
+
+### Machine Learning Intern — Cognifyz Technologies
+*March 2026 – April 2026*
+
+- Built machine learning models for restaurant rating prediction and cuisine classification.
+- Performed data preprocessing, feature engineering, and location-based analysis.
+- Applied Random Forest algorithms and evaluated models using R² Score and Accuracy.
+- Created visualizations to derive meaningful insights from restaurant data.
+
+**Skills:** Python, Machine Learning, Random Forest, Data Analysis, Data Visualization.
+
+### ServiceNow Virtual Internship — ITSM & Automation
+*ServiceNow University Virtual Internship Program | SmartBridge*
+
+- Learned IT Service Management (ITSM) fundamentals and workflow automation.
+- Gained exposure to ServiceNow and enterprise service workflows.
 
 ---
 
@@ -89,75 +112,92 @@
 An AI-powered urban traffic analytics solution designed to track vehicle trajectories across multiple cameras using Automatic Number Plate Recognition (ANPR).
 
 - 🎯 Focus: Vehicle tracking, traffic analytics, and smart automation.
-- 🏆 Team CityFlux-06 — shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
+- 🏆 Team CityFlux-06 was shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
 - 🔗 [Live Prototype](https://cityflux.vercel.app/)
 
 ### 2. FAIRHIRE — AI Hiring Bias Detection Framework
 
 A framework designed to evaluate potential bias in AI-based hiring systems across attributes such as gender, region, and education.
 
-- ⚖️ Fairness metrics: Statistical Parity Difference (SPD), Disparate Impact Ratio (DIR), and the EEOC four-fifths rule.
-- 🔍 Explainability and fairness analysis using IBM AIF360, SHAP, and LIME.
-- 🛠️ Tech Stack: React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB.
+- ⚖️ Evaluates fairness using Statistical Parity Difference (SPD), Disparate Impact Ratio (DIR), and the EEOC four-fifths rule.
+- 🔍 Uses IBM AIF360, SHAP, and LIME for fairness analysis and model explainability.
+- 🛠️ **Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB.
 - 🔗 [View Source Code](https://github.com/Varshitha-567/FAIRHIRE)
 
 ### 3. HISTOART — AI-Powered Historical Concept Art
 
 An AI application that transforms local history and heritage-related stories into visual concept art.
 
-- 🎨 Generates creative visual interpretations of historical narratives.
+- 🎨 Generates visual interpretations of historical narratives.
 - 🤖 Integrates generative AI models through inference APIs.
-- 🛠️ Tech Stack: Python, Django, React, Hugging Face, Stable Diffusion, ONNX Runtime.
+- 🛠️ **Tech Stack:** Python, Django, React, Hugging Face, Stable Diffusion, ONNX Runtime.
 
 ### 4. VanDhan ScholarConnect — Scholarship Platform
 
 A web prototype designed to help tribal students discover scholarship opportunities through a unified interface.
 
-- 🎓 Focus: Scholarship discovery and student application workflows.
-- 🛠️ Tech Stack: Next.js, React, TypeScript, Tailwind CSS.
+- 🎓 Focuses on scholarship discovery and student application workflows.
+- 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS.
 - 🔗 [Live Prototype](https://van-dhan-scholar-connect.vercel.app/)
 
 ### 5. BookBazaar — Online Book Marketplace
 
-A full-stack marketplace application for browsing and managing books with file upload and cloud storage support.
+A full-stack marketplace application for browsing and managing books with file uploads and cloud storage support.
 
-- 🛒 Focus: Marketplace functionality and backend API integration.
-- 🛠️ Tech Stack: Node.js, Express.js, MongoDB, Multer, AWS S3.
+- 🛒 Focuses on marketplace functionality and backend API integration.
+- 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, Multer, AWS S3.
 
 ### 6. Women Safety Web Application
 
 A web application developed to address women's safety through a technology-driven solution.
 
 - 🏆 Smart India Hackathon 2024 finalist project.
-- 🛠️ Tech Stack: HTML, CSS, JavaScript, Bootstrap.
+- 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Bootstrap.
 
 ### 7. PlayWise — Interactive Gaming Project
 
-An interactive gaming project developed as a web-based application.
+An interactive gaming project focused on gameplay and user experience.
 
-- 🎮 Focus: Interactive gameplay and user experience.
+- 🛠️ **Focus:** Interactive web-based gaming.
 - 🔗 [View Repository](https://github.com/Varshitha-567/PlayWise-IQOO-Hackathon)
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
+- 🏅 Shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
 - 🏅 Smart India Hackathon 2024 finalist.
-- 💻 5-Star Python rating on HackerRank.
-- 🧩 Solved 300+ problems on LeetCode.
-- 🏅 Secured 5th position in the AI theme at Hacksavy.
+- 🥇 Secured 5th position in the AI theme at Hacksavy.
+- ⭐ 5-Star Python rating on HackerRank.
+- 💻 Solved 300+ problems on LeetCode.
 - 🚀 Participated in Women Code to Win 2025.
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications
 
-- Cisco Networking Academy — JavaScript Essentials 1 and 2.
+- Cisco Networking Academy — JavaScript Essentials 1.
+- Cisco Networking Academy — JavaScript Essentials 2.
 - NPTEL — Data Science for Engineers.
 - ServiceNow Micro-Certification.
 - Full Stack Web Development Bootcamp.
-- Machine Learning internship at Cognifyz.
+
+---
+
+## 🧩 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Varshitha_K-567/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/Varshitha-567">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+**Primary coding language:** Java
+
+**Focus Areas:** Data Structures and Algorithms, problem-solving, and coding interview preparation.
 
 ---
 
@@ -186,11 +226,21 @@ An interactive gaming project developed as a web-based application.
 
 <p align="center">
   <a href="https://linkedin.com/in/varshitha-kornepati-449111291">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Varshitha-567">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <a href="https://leetcode.com/u/Varshitha_K-567/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  💌 Feel free to reach out for internships, software engineering opportunities, collaborations, and interesting projects!
 </p>
 
 ---
