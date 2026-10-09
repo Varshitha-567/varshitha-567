@@ -16,6 +16,9 @@
   <a href="https://leetcode.com/u/Varshitha_K-567/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="mailto:varshithakornepati@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
@@ -71,35 +74,24 @@
 - IBM AI Fairness 360 (AIF360)
 - SHAP and LIME
 
-**Cloud, Tools & Platforms**
+**Tools & Platforms**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,aws" alt="Tools and Platforms"/>
 </p>
 
-**Enterprise Technologies**
-
-- ServiceNow Administration and IT Service Management (ITSM)
-- Flow Designer and Workflow Automation
-- Automated Test Framework (ATF)
-- Salesforce Development Fundamentals
-- Apex and Lightning Web Components (LWC)
-- Basics of Agentic AI
-
 ---
 
 ## 💼 Experience
 
-### Machine Learning Intern — Cognifyz Technologies
+### Salesforce Developer with Agentblazer Champion Program
+*May 2025 – July 2025 | 8-week Virtual Internship*
 
-*March 2026 – April 2026*
+- Completed the program conducted by SmartBridge in collaboration with Salesforce and AICTE.
+- Learned organizational setup, data management, security management, developer fundamentals, and process automation.
+- Completed learning modules and superbadges covering Apex Specialist, Object Relationships, Lightning Web Components, and Agentblazer concepts.
 
-- Built machine learning models for restaurant rating prediction and cuisine classification.
-- Performed data preprocessing, feature engineering, and location-based analysis.
-- Applied Random Forest algorithms and evaluated models using R² Score and Accuracy.
-- Created visualizations to derive meaningful insights from restaurant data.
-
-**Skills:** Python, Machine Learning, Random Forest, Data Analysis, Data Visualization.
+**Skills:** Salesforce, CRM, Apex, Lightning Web Components, Data Management, Process Automation.
 
 ### ServiceNow Virtual Internship — ServiceNow University & SmartBridge
 
@@ -109,16 +101,14 @@
 
 **Skills:** ServiceNow, ITSM, Flow Designer, ATF, Workflow Automation, Agentic AI.
 
-### Salesforce Developer with Agentblazer Champion Program
+### Machine Learning Intern — Cognifyz Technologies
+*March 2026 – April 2026*
 
-*May 2025 – July 2025 | 8-week Virtual Internship*
+- Built machine learning models for restaurant rating prediction and cuisine classification.
+- Performed data preprocessing, feature engineering, and location-based analysis.
+- Applied Random Forest algorithms and evaluated models using R² Score and Accuracy.
 
-- Completed the program conducted by SmartBridge in collaboration with Salesforce and AICTE.
-- Learned organizational setup, data management, security management, developer fundamentals, and process automation.
-- Completed learning modules and superbadges covering Apex Specialist, Object Relationships, Lightning Web Components, and Agentblazer concepts.
-- Successfully passed the program evaluation through SkillWallet.
-
-**Skills:** Salesforce, CRM, Apex, Lightning Web Components, Data Management, Process Automation.
+**Skills:** Python, Machine Learning, Random Forest, Data Analysis, Data Visualization.
 
 ---
 
@@ -128,7 +118,7 @@
 
 An AI-powered urban traffic analytics solution designed to track vehicle trajectories across multiple cameras using Automatic Number Plate Recognition (ANPR).
 
-- 🎯 **Focus:** Vehicle tracking, traffic analytics, and smart automation.
+- 🎯 Focuses on vehicle tracking, traffic analytics, and smart automation.
 - 🏆 Team CityFlux-06 was shortlisted among the Top 50 teams in the SIH 2026 internal hackathon at MGIT.
 - 🔗 [Live Prototype](https://cityflux.vercel.app/)
 
@@ -138,8 +128,7 @@ A framework designed to evaluate potential bias in AI-based hiring systems acros
 
 - ⚖️ Evaluates fairness using Statistical Parity Difference (SPD), Disparate Impact Ratio (DIR), and the EEOC four-fifths rule.
 - 🔍 Uses IBM AIF360, SHAP, and LIME for fairness analysis and model explainability.
-- 🛠️ **Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB.
-- 🔗 [View Source Code](https://github.com/Varshitha-567/FAIRHIRE)
+- 🛠️ **Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB. [Source Code](https://github.com/Varshitha-567/FAIRHIRE)
 
 ### 3. HISTOART — AI-Powered Historical Concept Art
 
@@ -153,29 +142,40 @@ An AI application that transforms local history and heritage-related stories int
 
 A web prototype designed to help tribal students discover scholarship opportunities through a unified interface.
 
-- 🎓 Focuses on scholarship discovery and student application workflows.
-- 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS.
+- 🎓 Provides an interface for scholarship discovery and student application workflows.
+- 💻 Built as a frontend prototype using Next.js, React, TypeScript, and Tailwind CSS.
 - 🔗 [Live Prototype](https://van-dhan-scholar-connect.vercel.app/)
 
 ### 5. PlayWise — Interactive Gaming Project
 
 An interactive web-based gaming project focused on gameplay and user experience.
 
-- 🎮 **Focus:** Interactive gameplay and user engagement.
-- 🔗 [View Repository](https://github.com/Varshitha-567/PlayWise-IQOO-Hackathon.git)
+- 🎮 Focuses on interactive gameplay and user engagement.
+- 🖥️ Developed as a web application with an emphasis on the user interface.
+- 🔗 [View Repository](https://github.com/Varshitha-567/PlayWise-IQOO-Hackathon)
 
-### 6. BookBazaar — Online Book Marketplace
+### 6. City-Scale Disaster Risk Intelligence Dashboard
+
+A dashboard concept for visualizing city-scale disaster risks and supporting data-driven situational awareness.
+
+- 🌆 Focuses on presenting disaster risk information at the city level.
+- 📊 Designed to organize risk indicators and insights into a dashboard for easier interpretation.
+- 🎯 Aims to support disaster preparedness and risk-informed decision-making.
+
+### 7. BookBazaar — Online Book Marketplace
 
 A full-stack marketplace application for browsing and managing books with file uploads and cloud storage support.
 
-- 🛒 **Focus:** Marketplace functionality and backend API integration.
+- 📚 Supports an online book marketplace experience.
+- ⚙️ Uses backend APIs and file upload functionality to manage application data.
 - 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, Multer, AWS S3.
 
-### 7. Women Safety Web Application
+### 8. Women Safety Web Application
 
 A web application developed to address women's safety through a technology-driven solution.
 
-- 🏆 Smart India Hackathon 2024 finalist project.
+- 🛡️ Focuses on women's safety and practical technology-based support.
+- 🏆 Developed as part of the Smart India Hackathon 2024 finalist project.
 - 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Bootstrap.
 
 ---
@@ -199,23 +199,6 @@ A web application developed to address women's safety through a technology-drive
 
 ---
 
-## 🧩 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/Varshitha_K-567/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/Varshitha-567">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
-**Primary Coding Language:** Java
-
-**Focus Areas:** Data Structures and Algorithms, problem-solving, and coding interview preparation.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -225,14 +208,6 @@ A web application developed to address women's safety through a technology-drive
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Varshitha-567&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha-567&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 ---
@@ -248,9 +223,6 @@ A web application developed to address women's safety through a technology-drive
   </a>
   <a href="https://leetcode.com/u/Varshitha_K-567/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:varshithakornepati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
